@@ -1,0 +1,39 @@
+.navbar{
+    margin-bottom: 2%;
+}
+
+
+.carousel{
+   width: 90%;
+   padding-left: 10%;
+   padding-bottom: 3%;
+}
+
+h1{
+    text-align: center;
+    padding-top: 1%;
+}
+
+#testimonial{
+
+   margin-top: 2%;
+}
+
+.undrawimages{
+    width: 80%;
+}
+
+.info-right{
+    padding-top: 7%;
+}
+
+
+.footer{
+border-style: hidden;
+background-color: black;
+padding-top: 7%;
+padding-bottom: 1%;
+color:white;
+text-align: center;
+}
+
